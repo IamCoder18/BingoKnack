@@ -1,0 +1,46 @@
+@import url(https://db.onlinewebfonts.com/c/d5075ebf15c6a1d89e8ed3e20d1c4d7b?family=Product+Sans+Medium);
+
+*{
+    font-family: "Product Sans Medium"!important;
+}
+
+#home{
+    text-align: center!important;
+    padding: 20px;
+}
+
+.btnpg1{
+    font-size: 18px!important;
+}
+
+td{
+    height: auto;
+    width: auto;
+    padding: 20px!important;
+    text-align: center;
+}
+
+#callNum{
+    height: auto;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    border-style: solid;
+    width: fit-content;
+    border-color: #0d6efd;
+    margin-bottom: 20px;
+}
+
+.selected{
+    background-color: #0066ff!important;
+    color: white!important;
+}
+
+.suggested{
+    background-color: #6ca7ff!important;
+    color: white!important;
+}
+
+.card-body{
+    text-align: center;
+}
